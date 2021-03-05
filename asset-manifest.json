@@ -3,15 +3,15 @@
     "static/js/0.d1969dc8.chunk.js": "/razio-test/static/js/0.d1969dc8.chunk.js",
     "static/js/0.d1969dc8.chunk.js.map": "/razio-test/static/js/0.d1969dc8.chunk.js.map",
     "main.css": "/razio-test/static/css/main.82b043ff.chunk.css",
-    "main.js": "/razio-test/static/js/main.b26ffa86.chunk.js",
-    "main.js.map": "/razio-test/static/js/main.b26ffa86.chunk.js.map",
+    "main.js": "/razio-test/static/js/main.c5cb15a5.chunk.js",
+    "main.js.map": "/razio-test/static/js/main.c5cb15a5.chunk.js.map",
     "polyfills-dom.js": "/razio-test/static/js/polyfills-dom.fa3de97b.chunk.js",
     "polyfills-dom.js.map": "/razio-test/static/js/polyfills-dom.fa3de97b.chunk.js.map",
     "runtime-main.js": "/razio-test/static/js/runtime-main.cc1da958.js",
     "runtime-main.js.map": "/razio-test/static/js/runtime-main.cc1da958.js.map",
     "static/css/4.672a8906.chunk.css": "/razio-test/static/css/4.672a8906.chunk.css",
-    "static/js/4.19eecd54.chunk.js": "/razio-test/static/js/4.19eecd54.chunk.js",
-    "static/js/4.19eecd54.chunk.js.map": "/razio-test/static/js/4.19eecd54.chunk.js.map",
+    "static/js/4.28e870b3.chunk.js": "/razio-test/static/js/4.28e870b3.chunk.js",
+    "static/js/4.28e870b3.chunk.js.map": "/razio-test/static/js/4.28e870b3.chunk.js.map",
     "static/js/5.bcb1d6f6.chunk.js": "/razio-test/static/js/5.bcb1d6f6.chunk.js",
     "static/js/5.bcb1d6f6.chunk.js.map": "/razio-test/static/js/5.bcb1d6f6.chunk.js.map",
     "static/js/6.6373f6e4.chunk.js": "/razio-test/static/js/6.6373f6e4.chunk.js",
@@ -121,7 +121,7 @@
     "index.html": "/razio-test/index.html",
     "static/css/4.672a8906.chunk.css.map": "/razio-test/static/css/4.672a8906.chunk.css.map",
     "static/css/main.82b043ff.chunk.css.map": "/razio-test/static/css/main.82b043ff.chunk.css.map",
-    "static/js/4.19eecd54.chunk.js.LICENSE.txt": "/razio-test/static/js/4.19eecd54.chunk.js.LICENSE.txt",
+    "static/js/4.28e870b3.chunk.js.LICENSE.txt": "/razio-test/static/js/4.28e870b3.chunk.js.LICENSE.txt",
     "static/js/52.39097b95.chunk.js.LICENSE.txt": "/razio-test/static/js/52.39097b95.chunk.js.LICENSE.txt",
     "static/js/polyfills-dom.fa3de97b.chunk.js.LICENSE.txt": "/razio-test/static/js/polyfills-dom.fa3de97b.chunk.js.LICENSE.txt",
     "static/media/variables.css": "/razio-test/static/media/Comfortaa-SemiBold.27c17c7d.ttf",
@@ -130,8 +130,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc1da958.js",
     "static/css/4.672a8906.chunk.css",
-    "static/js/4.19eecd54.chunk.js",
+    "static/js/4.28e870b3.chunk.js",
     "static/css/main.82b043ff.chunk.css",
-    "static/js/main.b26ffa86.chunk.js"
+    "static/js/main.c5cb15a5.chunk.js"
   ]
 }
