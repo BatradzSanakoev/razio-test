@@ -25,11 +25,8 @@ import './theme/variables.css';
 const App = () => (
   <IonApp>
       <IonRouterOutlet>
-        <Route exact path="/home">
-          <Home />
-        </Route>
         <Route exact path="/">
-          <Redirect to="/home" />
+          <Home />
         </Route>
       </IonRouterOutlet>
   </IonApp>
