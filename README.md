@@ -5,5 +5,5 @@ razio group test task
 Технологический стек: JavaScript, ReactJS, Ionic
 
 Релизованные функции:
-- реализация простого лендинга с использованием фреймворка Ionic и ReactJS
+- реализация простого лендинга с использованием фреймворка Ionic и ReactJS (Без адаптива)
 - использовались компоненты фреймворка Ionic, такие как IonicInput, IonicCard, IonicToolbar, IonicGrid и др.
